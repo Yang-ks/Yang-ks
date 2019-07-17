@@ -127,7 +127,7 @@ function getInterval(start,end){
 var spanhour =document.getElementById('hour');
 var spanminute =document.getElementById('minute');
 var spansecond =document.getElementById('second');
-var end =new Date('2019-3-06');
+var end =new Date('2019-7-18');
 
 setInterval(djs,1000);
 djs();
